@@ -25,6 +25,5 @@ This repository contains a Power BI dashboard and supporting SQL scripts develop
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](![Dashboard_Screenshot](https://github.com/user-attachments/assets/2ed9516d-3fd7-4da3-8d60-63aaa827aae1)
-)
+[Dashboard Screenshot](Dashboard_Screenshot.PNG)
 
